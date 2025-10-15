@@ -10,7 +10,7 @@ I'm also exploring back-end development, specifically learning **C#** and the **
 
 [My Github Account]("https://github.com/abadJessica")
 
-## Projects
+## [Projects](/projects.markdown)
 <img src="images/stoplight-projects.png" height="30"> Note: **RED** - drafting / planning stage; **YELLOW** – ongoing project; **GREEN** – go live
 
 <!-- [Projects 1](/projects.markdown) -->
